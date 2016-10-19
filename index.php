@@ -1,8 +1,12 @@
 this is new file
 
-v:0.2
+<<<<<<< HEAD
+v:0.5*
+=======
+v:0.4
+>>>>>>> upstream/master
 
-this is my mayur changes 
+this is my mayur brnach changes 
 
 
 
