@@ -2,11 +2,13 @@ this is new file
 
 <<<<<<< HEAD
 v:0.5*
+
+this is my shakil brnach changes 
 =======
 v:0.4
->>>>>>> upstream/master
 
 this is my mayur brnach changes 
+>>>>>>> upstream/master
 
 
 
